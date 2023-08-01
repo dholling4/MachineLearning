@@ -5,7 +5,3 @@ This project involved using an opensource dataset from the UCI Machine Learning 
 * This allows you to control devices such as computers, smartphones, and even drones, simply by making movements with your arm.
 * Visit [here]([url](https://archive.ics.uci.edu/dataset/481/emg+data+for+gestures)https://archive.ics.uci.edu/dataset/481/emg+data+for+gestures) for more details
 
-# Results
-* Random Forest Classification Accuracy of 98% of six different gestures
-* Support Vector Machine (SVM) 80%
-* Linear Discriminant Analysis (LDA) 85%
